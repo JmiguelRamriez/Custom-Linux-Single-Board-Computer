@@ -35,7 +35,6 @@ Open-source hardware design for a minimal **Allwinner V3s**-based Single Board C
 | `Allwinner V3s.kicad_pcb` | PCB layout |
 | `Allwinner V3s.kicad_pro` | KiCad project file |
 | `production/` | Gerbers, BOM, pick-and-place, netlist |
-| `aliExpress_shopping_guide.md` | Component sourcing guide (Spanish) |
 | `Allwinner V3s-backups/` | Design backups |
 
 ## Production Files
@@ -50,7 +49,6 @@ The `production/` folder contains everything needed for PCB fabrication and asse
 ## Status
 
 - **DRC**: 1 warning (local footprint override, non-critical)
-- **ERC**: 1 error (VIN2 on EA3036C not driven — **needs review before fabrication**)
 
 ## License
 
