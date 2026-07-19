@@ -1,0 +1,9 @@
+ERC report (2026-07-14T12:48:17-0600, Encoding UTF8)
+Report includes: Errors, Warnings
+
+***** Sheet /
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(6350 mils, 6700 mils): Symbol U2 Pin 7 [VIN2, Power input, Line]
+
+ ** ERC messages: 1  Errors 1  Warnings 0

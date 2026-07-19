@@ -1,0 +1,14 @@
+** Drc report for Allwinner V3s.kicad_pcb **
+** Created on 2026-07-14T12:48:29-0600 **
+** Report includes: Errors, Warnings **
+
+** Found 1 DRC violations **
+[lib_footprint_mismatch]: Footprint 'eLQFP-128_14x14_Pitch0.4mm_EPAD_5.72mm' does not match copy in library 'Allwinner_SiPs'.
+    Local override; warning
+    @(126.0000 mm, 67.8750 mm): Footprint U1
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
