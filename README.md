@@ -17,9 +17,14 @@ Open-source hardware design for a minimal **Allwinner V3s**-based Single Board C
 
 ## Gallery
 
-| 3D View | Schematic | PCB Layout |
-|---------|-----------|------------|
-| ![Diseño](Diseño.png) | ![Esquematico](Esquematico.png) | ![PCB](PCB.png) |
+### PCB Layout
+![PCB](PCB.png)
+
+### 3D View
+![Diseño](Diseño.png)
+
+### Schematic
+![Esquematico](Esquematico.png)
 
 ## Board Specifications
 
