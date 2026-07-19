@@ -15,6 +15,12 @@ Open-source hardware design for a minimal **Allwinner V3s**-based Single Board C
 - **CR1220** coin cell holder — RTC backup
 - **Boot/reset button**
 
+## Gallery
+
+| 3D View | Schematic | PCB Layout |
+|---------|-----------|------------|
+| ![Diseño](Diseño.png) | ![Esquematico](Esquematico.png) | ![PCB](PCB.png) |
+
 ## Board Specifications
 
 | Parameter | Value |
